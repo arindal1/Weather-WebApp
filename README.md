@@ -12,7 +12,7 @@ A simple web application that allows users to check the weather details for a sp
 - Responsive design for various screen sizes.
 - Stylish visual elements to enhance user experience.
 
-## Technologies Used
+## Tech Stack
 
 - HTML
 - CSS
@@ -45,7 +45,7 @@ A simple web application that allows users to check the weather details for a sp
 
 ## JavaScript
 
-Certainly! The JavaScript code in this project is responsible for fetching weather data from the OpenWeatherMap API based on the city name provided by the user. It then updates the HTML content to display the fetched weather information on the webpage. Let's break down the code step by step:
+The JavaScript code in this project is responsible for fetching weather data from the OpenWeatherMap API based on the city name provided by the user. It then updates the HTML content to display the fetched weather information on the webpage. Let's break down the code step by step:
 
 ```javascript
 let result = document.getElementById("result");
@@ -109,19 +109,13 @@ You can customize this project by:
 - Adding more functionality to the JavaScript code in the `script.js` file.
 - Incorporating additional features or integrating with other APIs.
 
-## Credits
+## Resources
 
 - Weather data provided by [OpenWeatherMap](https://openweathermap.org/).
+- API used: [Current Weather](https://openweathermap.org/current).
 - Icons from the project are sourced from the [Flaticon](https://www.flaticon.com/) website.
 
-## Contact
-
-For any inquiries or feedback, feel free to reach out to the project creator:
-
-- Instagram: [arindxl](https://instagram.com/arindxl?igshid=MzRlODBiNWFlZA==)
-- GitHub: [arindal1](https://github.com/arindal1)
-- LinkedIn: [Arindal Char](https://www.linkedin.com/in/arindalchar/)
+## [Weather App]()
 
 ---
 
-*Note: This README is provided as an example and does not contain actual working links or images. Make sure to replace placeholders with actual content and links.*
