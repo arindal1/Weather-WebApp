@@ -35,15 +35,12 @@ A simple web application that allows users to check the weather details for a sp
 
 5. OR: Visit the Github Page to use it normally.
 
----
-
 ## Project Structure
 
 - `index.html`: The main HTML file containing the structure of the web page.
 - `style.css`: The CSS file that defines the styling and layout of the web page.
 - `script.js`: The JavaScript file responsible for fetching weather data from the API and updating the user interface.
-- `key.js`: A placeholder file where you can store your OpenWeatherMap API key
-   - (currently contains my personal API key, can be replaced by your own API key when you're working on this project locally).
+- `key.js`: A placeholder file where you can store your OpenWeatherMap API key (not included in this repository for security reasons).
 - `images/`: Directory containing images used in the project.
 
 ## JavaScript
@@ -104,7 +101,33 @@ window.addEventListener("load", getWeather);
 
 In summary, the JavaScript code in this project handles user input, fetches weather data from an external API, processes the data, and updates the HTML content to display the weather details on the webpage. It uses event listeners to trigger actions when certain events occur (e.g., button click, page load).
 
----
+## Contributing
+
+While this repository primarily contains the working web-app, I welcome contributions in the form of additional features, optimizations, or explanations. If you'd like to contribute, follow these steps:
+
+1. Fork the repository to your GitHub account.
+
+2. Create a new branch for your contributions:
+
+   ```bash
+   git checkout -b feature/add-feature
+   ```
+
+3. Add your modification to the ```index.html```, ```style.css``` or ```script.js```.
+
+4. Commit your changes:
+
+   ```bash
+   git commit -m "Add a new feature/bug fix/..."
+   ```
+
+5. Push the changes to your forked repository:
+
+   ```bash
+   git push origin feature/add-feature
+   ```
+
+6. Open a pull request on GitHub, describing the changes you made.
 
 ## Customization
 
@@ -120,7 +143,7 @@ You can customize this project by:
 - API used: [Current Weather](https://openweathermap.org/current).
 - Icons from the project are sourced from the [Flaticon](https://www.flaticon.com/) website.
 
----
+## [Weather App]()
 
-## [Weather App](https://arindal1.github.io/Weather-WebApp/)
+---
 
