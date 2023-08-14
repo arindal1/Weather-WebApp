@@ -42,7 +42,7 @@ A simple web application that allows users to check the weather details for a sp
 - `index.html`: The main HTML file containing the structure of the web page.
 - `style.css`: The CSS file that defines the styling and layout of the web page.
 - `script.js`: The JavaScript file responsible for fetching weather data from the API and updating the user interface.
-- `key.js`: A placeholder file where you can store your OpenWeatherMap API key (not included in this repository for security reasons).
+- `key.js`: A placeholder file where you can store your OpenWeatherMap API key (currently contains my personal API key, can be replaced by your own API key when you're working on this project locally).
 - `images/`: Directory containing images used in the project.
 
 ## JavaScript
