@@ -35,6 +35,8 @@ A simple web application that allows users to check the weather details for a sp
 
 5. OR: Visit the Github Page to use it normally.
 
+---
+
 ## Project Structure
 
 - `index.html`: The main HTML file containing the structure of the web page.
@@ -101,6 +103,8 @@ window.addEventListener("load", getWeather);
 
 In summary, the JavaScript code in this project handles user input, fetches weather data from an external API, processes the data, and updates the HTML content to display the weather details on the webpage. It uses event listeners to trigger actions when certain events occur (e.g., button click, page load).
 
+---
+
 ## Customization
 
 You can customize this project by:
@@ -115,7 +119,7 @@ You can customize this project by:
 - API used: [Current Weather](https://openweathermap.org/current).
 - Icons from the project are sourced from the [Flaticon](https://www.flaticon.com/) website.
 
-## [Weather App]()
-
 ---
+
+## [Weather App](https://arindal1.github.io/Weather-WebApp/)
 
