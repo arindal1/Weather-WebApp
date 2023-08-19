@@ -143,7 +143,7 @@ You can customize this project by:
 - API used: [Current Weather](https://openweathermap.org/current).
 - Icons from the project are sourced from the [Flaticon](https://www.flaticon.com/) website.
 
-## [Weather App]()
+## [Weather App](https://arindal1.github.io/Weather-WebApp/)
 
 ---
 
